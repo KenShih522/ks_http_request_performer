@@ -1,4 +1,5 @@
 # ks_http_request_performer
+[![Build Status](https://travis-ci.org/KenShih522/ks_http_request_performer.svg?branch=master)](https://travis-ci.org/KenShih522/ks_http_request_performer)
 
 A demo writtern in C++ demonstrates how to use boost library to handel HTTP requests, which allows anyone who wants to develop a cross platfrom library that can be used in different platforms. The demo is Based on Boost and OpenSSL.
 
