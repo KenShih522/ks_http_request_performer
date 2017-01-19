@@ -1,3 +1,4 @@
 language: cpp
 compiler: gcc
+os: osx
 script: ./start_build.sh; make;
